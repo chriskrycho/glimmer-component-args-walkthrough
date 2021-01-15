@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "volta": {
+    "node": "14.15.4",
+    "yarn": "1.22.5"
+  },
+  "dependencies": {
+    "@glimmer/component": "^1.0.3",
+    "@glimmer/tracking": "^1.0.3"
+  }
+}
